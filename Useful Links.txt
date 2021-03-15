@@ -1,0 +1,8 @@
+For practice
+
+http://books.toscrape.com/
+
+Code to download images
+
+https://www.python-engineer.com/posts/image-downloader/
+
